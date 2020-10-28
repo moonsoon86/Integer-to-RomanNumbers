@@ -32,6 +32,7 @@ h1{
     font-family: 'Romanesco', cursive;
     font-size: 40px;
     text-align: center;
+    
 }
 #btn1,
 #btn2{
@@ -87,6 +88,7 @@ h1{
     height:10vh;
     border: 0.5;
     border-color: black;
+    
 }
 
 
